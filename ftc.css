@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+.foot{
+    background-color: black;
+}
+.ftc-title{
+    background-color: black;
+}
+h1, h2, h3 {
+    color: cyan;
+}
+p {
+    color: green;
+}
+.navbar-nav .nav-item .ftc-menu{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.ftc-logo{
+    width: 100%;
+    height: 100%;
+    padding: 10px 10px;
+    background-color: black;
+}
+.socksmap{
+    width: 100%;
+    height: 100%;
+}
+.ftc-imgofmap{
+    height: 400px;
+    background: #aaa;
+}
+.ftc-imgoflogo{
+    height: 300px;
+}
+.foot{
+    text-align: center;
+}
+.ftc-sm-logo{
+    width: 200px;
+    height: 80px;
+}
