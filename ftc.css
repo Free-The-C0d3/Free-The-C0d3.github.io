@@ -1,11 +1,18 @@
 body {
     background-color: rgb(69, 72, 87);
+    background-image: url("https://media.giphy.com/media/QBvHYx6taXPwCHqTRR/giphy.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .foot{
     background-color: black;
 }
 .ftc-title{
     background-color: black;
+    background-image: url("https://media0.giphy.com/media/fSRQtBAzrPokPCItuu/giphy.gif?cid=ecf05e47mle14kfbpiefjypv0o61lqmalp38nxxb2at8w7b4&rid=giphy.gif");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 h1, h2, h3 {
     color: cyan;
@@ -29,7 +36,7 @@ p {
 }
 .ftc-imgofmap{
     height: 400px;
-    background: #aaa;
+    background: black;
 }
 .ftc-imgoflogo{
     height: 300px;
@@ -40,9 +47,4 @@ p {
 .ftc-sm-logo{
     width: 200px;
     height: 80px;
-}
-.ftc-menu{
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
 }
