@@ -1,11 +1,11 @@
 body {
-    background-color: black;
+    background-color: rgb(133, 139, 153);
 }
 .foot{
-    background-color: black;
+    background-color: rgb(133, 139, 153);
 }
 .ftc-title{
-    background-color: black;
+    background-color: rgb(133, 139, 153);
 }
 h1, h2, h3 {
     color: cyan;
