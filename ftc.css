@@ -68,3 +68,19 @@ p {
     border-width: 5px;
     border-style: solid;
 }
+.nav-item a{
+    text-align: center;
+}
+.ftc-btn{
+    background-image: url("https://media.giphy.com/media/iJ2PHrHf16oa7NI7Mh/giphy.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ftc-btn-menu{
+    background-color: gray;
+    color: white;
+}
+/*.ftc-all-center{
+    text-align: center;
+}*/
