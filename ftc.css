@@ -47,7 +47,8 @@ p {
     /*background-image: url("https://media.giphy.com/media/RlwF2vFb4y7bDnWvcO/giphy.gif");*/
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
+    margin-bottom: 0;
 }
 .ftc-sm-logo{
     width: 200px;
@@ -62,4 +63,8 @@ p {
     bottom: 0;
     min-width: 100%;
     min-height: 100%;
+}
+#mybd{
+    border-width: 5px;
+    border-style: solid;
 }
